@@ -1,2 +1,7 @@
-# learning-resources
-web开发 学习资源
+# Learning Resources
+## HTML
+## CSS
+## JavaScript
+## React
+## Vue
+## TypeScript
