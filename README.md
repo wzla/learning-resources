@@ -2,13 +2,16 @@
 ## HTML
 * [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [web.dev: Learn HTML](https://web.dev/learn/html)
+* [web.dev: Learn Accessibility](https://web.dev/learn/accessibility/)
 ## CSS
 * [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [web.dev: CSS](https://web.dev/learn/css/)
 * [CSS Tricks](https://css-tricks.com)
 * [Sass](https://sass-lang.com)
 * [Styled Component](https://styled-components.com)
 * [Tailwind CSS](https://tailwindcss.com)
 * [Animate.css](https://animate.style)
+* [web.dev: Learn Responsive Design](https://web.dev/learn/design)
 ## JavaScript
 * [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [The Modern JavaScript Tutorial](https://javascript.info)
@@ -40,3 +43,4 @@
 * [Axios](https://axios-http.com)
 ## Tools
 * [Color Review](https://color.review)
+* [Mockaroo](https://mockaroo.com/)
