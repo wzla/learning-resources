@@ -1,15 +1,16 @@
 # Learning Resources
 ## HTML
-* [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [web.dev: Learn Html](https://web.dev/learn/html)
 ## CSS
-* [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [CSS Tricks](https://css-tricks.com)
 * [Sass](https://sass-lang.com)
 * [Styled Component](https://styled-components.com)
 * [Tailwind CSS](https://tailwindcss.com)
 * [Animate.css](https://animate.style)
 ## JavaScript
-* [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [The Modern JavaScript Tutorial](https://javascript.info)
 * [ES6 Introductory Tutorial](https://es6.ruanyifeng.com) (Chinese)
 * [Axios](https://axios-http.com)
