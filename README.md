@@ -25,6 +25,7 @@
 * [React Router](https://reactrouter.com/en/main)
 * [Redux](https://redux.js.org)
 * [MobX](https://mobx.js.org/README.html)
+* [React Query](https://tanstack.com/query/latest/docs/react/overview)
 ## Vue
 * [Vue](https://vuejs.org)
 * [Element Plus](https://element-plus.org)
