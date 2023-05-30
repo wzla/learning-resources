@@ -4,7 +4,6 @@
 ## CSS
 * [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [CSS Tricks](https://css-tricks.com)
-* [Color Review](https://color.review)
 * [Sass](https://sass-lang.com)
 * [Styled Component](https://styled-components.com)
 * [Tailwind CSS](https://tailwindcss.com)
@@ -33,4 +32,7 @@
 * [esbuild](https://esbuild.github.io)
 * [ESLint](https://eslint.org)
 * [Prettier](https://prettier.io)
+## Libraries
+* [Day.js](https://day.js.org)
 ## Tools
+* [Color Review](https://color.review)
