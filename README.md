@@ -13,13 +13,15 @@
 * [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [The Modern JavaScript Tutorial](https://javascript.info)
 * [ES6 Introductory Tutorial](https://es6.ruanyifeng.com) (Chinese)
-* [Axios](https://axios-http.com)
+* [Exploring ES6](https://exploringjs.com/es6/index.html)
+* [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
 ## React
 * [React](https://react.dev)
 * [Ant Design](https://ant.design)
 * [Fluent UI](https://react.fluentui.dev)
 * [React Router](https://reactrouter.com/en/main)
 * [Redux](https://redux.js.org)
+* [MobX](https://mobx.js.org/README.html)
 ## Vue
 * [Vue](https://vuejs.org)
 * [Element Plus](https://element-plus.org)
@@ -35,5 +37,6 @@
 * [Prettier](https://prettier.io)
 ## Libraries
 * [Day.js](https://day.js.org)
+* [Axios](https://axios-http.com)
 ## Tools
 * [Color Review](https://color.review)
