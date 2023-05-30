@@ -1,7 +1,7 @@
 # Learning Resources
 ## HTML
 * [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [web.dev: Learn Html](https://web.dev/learn/html)
+* [web.dev: Learn HTML](https://web.dev/learn/html)
 ## CSS
 * [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [CSS Tricks](https://css-tricks.com)
