@@ -15,7 +15,7 @@
 ## JavaScript
 * [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [The Modern JavaScript Tutorial](https://javascript.info)
-* [ES6 Introductory Tutorial](https://es6.ruanyifeng.com) (Chinese)
+* [ES6 入门教程](https://es6.ruanyifeng.com)
 * [Exploring ES6](https://exploringjs.com/es6/index.html)
 * [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
 * [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
