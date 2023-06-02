@@ -47,6 +47,12 @@
 ## TypeScript
 * [TypeScript](https://www.typescriptlang.org)
 * [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app)
+<details><summary>Blogs</summary>
+
+* [重学TS](https://juejin.cn/post/7211358106629750841)
+
+</details>
+
 ## Build
 * [Vite](https://vitejs.dev)
 * [esbuild](https://esbuild.github.io)
