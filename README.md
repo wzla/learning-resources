@@ -12,6 +12,7 @@
 * [Tailwind CSS](https://tailwindcss.com)
 * [Animate.css](https://animate.style)
 * [web.dev: Learn Responsive Design](https://web.dev/learn/design)
+* [CSS Weekly](https://css-weekly.com/archives/)
 ## JavaScript
 * [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [The Modern JavaScript Tutorial](https://javascript.info)
@@ -27,6 +28,7 @@
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [30 seconds of code](https://www.30secondsofcode.org/)
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [JavaScript Weekly](https://javascriptweekly.com/issues)
 ## React
 * [React](https://react.dev)
 * [Next.js](https://nextjs.org/)
