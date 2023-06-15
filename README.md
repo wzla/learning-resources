@@ -29,6 +29,12 @@
 * [30 seconds of code](https://www.30secondsofcode.org/)
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [JavaScript Weekly](https://javascriptweekly.com/issues)
+<details><summary>Blogs</summary>
+  
+* [Javascript设计模式：让你的代码像个天才](https://juejin.cn/post/7240248679516012603)
+
+</details>
+
 ## React
 * [React](https://react.dev)
 * [Next.js](https://nextjs.org/)
